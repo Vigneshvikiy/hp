@@ -1,5 +1,6 @@
-a=0
-n=int(input())
-for i in range(0,n+1):
-	a=a+i
-print(a)
+a=int(input())
+b=0
+if(a>0):
+    b=a
+    b=a+1
+    print(b)
