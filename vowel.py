@@ -3,4 +3,4 @@ a=input()
 if(a in ch):
     print("vowel")
 else:
-    print("consolence")
+    print("consonant")
