@@ -12,6 +12,6 @@ for(j=1;j<=b;j++)
 {
 sum=sum+j;
 }
-printf("sum is %d",sum");
+printf("sum is %d",sum);
 return 0;
 }
